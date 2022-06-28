@@ -1,2 +1,0 @@
-#!/bin/bash
-sort /etc/passwd | cit -d ":" -f 1,6
